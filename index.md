@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Freelance or fixed employment: what do Mexican workers prefer?
 
-You can use the [editor on GitHub](https://github.com/field-engineer/cableinternetcompanies/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Although freelance work is gaining more and more followers, permanent employment in a company continues to be the preferred modality for 48% of Mexican workers; This was revealed by the fourth survey of 2017 conducted by Universal, in conjunction with the employment portal Trabajando.com. Know details of each of these work scenarios in the following article.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In recent years the labor market has witnessed major changes that have allowed the birth of new ways or modalities to achieve job success, one of the clearest examples of these new conditions is freelance work, also known as independent.
+Seeking to know more exact data about the different labor scenarios that currently coexist in the market, Universe, the network of universities present in 23 countries of Ibero-America, and Trabajando.com, the labor community formed by a wide network of associated sites, carried out the Fourth employment survey of 2014, under the theme of labor preferences.
 
-### Markdown
+After surveying more than six thousand participants from nine countries, it was found that 57% would prefer to be hired by a company, while 26% would bet on their own company and 17% would choose to work independently for third parties. For Mexico, the survey showed that 48% prefer to be hired by a company, 33% have their own company and 19% work under the freelance modality.
+ 
+Regarding the sector in which they prefer to work, 63% of respondents would choose to work in the private sector, 32% in the public sector and only 5% in a Non-Governmental Organization (NGO). In Mexico there is a preference of the private sector with 59%, followed by the public sector with 36% and finally NGOs with 5%.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Likewise, 46% of all respondents said that among the benefits of being hired by a company include: have a health insurance, bonuses, liquidations, among others. 36% considered job stability important, while 16% considered the career line as a benefit and only 2% the vacation.
 
-```markdown
-Syntax highlighted code block
+For Mexico, occupational stability is a preferred factor in the search for work, followed by 22% for remuneration and 21% for training and learning opportunities. Likewise, 51% of Mexican respondents highlighted the employment benefits for a fixed worker such as health insurance, bonuses, etc.
+ 
+Regarding the benefits of being an independent worker, 32% said that flexibility was the most important, 30% the ability to carry several projects at the same time and learn from each one, 24% considered that there was a better balance between work and family, and only 14% indicated as a benefit to be their own boss.
 
-# Header 1
-## Header 2
-### Header 3
+With respect to Mexican workers, the freelance modality has as its main benefit, as 37% of the respondents assured, the possibility of combining several initiatives at the same time and learning from each one of them.
+ 
+On the other hand, for 79% of people surveyed a worker can acquire more work experience when hired by a company, a percentage where Argentina stands out with 86% and Chile and Peru with 83%, in both cases. Only 21% consider that they can obtain more experience as an independent employee.
 
-- Bulleted
-- List
+In the case of Mexicans, the results were that 74% can acquire more experience when hired by a company, in the case of freelance only by 26%.
+ 
+In terms of the most sought after by young people, 52% said gaining experience was the most relevant aspect, while 29% said it was important to work in a company that offers a career plan. Receiving a remuneration that allows you to self-finance a postgraduate degree is essential for 10%, while another 9% prefer job stability and job benefits.
+ 
 
-1. Numbered
-2. List
+WHAT IS THE LABOR SCENARIO IN MEXICO?
 
-**Bold** and _Italic_ and `Code` text
+Arturo Cherbowski, General Director of Universia México and Executive Director of Santander Universities, commented: "this generation of young people is interested in undertaking, [Contingent Employment](https://www.fieldengineer.com/blogs/what-is-contingent-employment/) in creating projects that later become companies; This is an excellent option to start working, they are able to be their own bosses, and later, they are also employers ".
 
-[Link](url) and ![Image](src)
-```
+"If, on the other hand, they decide to be part of a company, the importance of the experience they acquire is equally valuable, since they will be able to develop their skills, as well as continue to prepare and have the possibility of growing," he added.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For its part Margarita Chico, Corporate Communications Director of Trabajando.com added that, since 79% of the vacancies received in Mexico come from SMEs, those who opt for entrepreneurship may be facing an excellent option, not only to obtain a good income, but for the creation of jobs in the future.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/field-engineer/cableinternetcompanies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The remaining professionals, who choose the option of being employed in a company, must value not only the monetary aspect or the additional benefits, but also the work for a company that gives them professional development, stability and the possibility of training constantly.
